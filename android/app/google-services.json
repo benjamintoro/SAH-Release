@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "691023887329",
+    "project_id": "sah-1224",
+    "storage_bucket": "sah-1224.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691023887329:android:276c80a6a00321685bf0a0",
+        "android_client_info": {
+          "package_name": "com.ejemplo.sah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoyGly5sWVwyWwqF4mCdTqmmbz2Lwx_Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691023887329:android:0af4f660d9262b355bf0a0",
+        "android_client_info": {
+          "package_name": "com.example.sah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoyGly5sWVwyWwqF4mCdTqmmbz2Lwx_Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691023887329:android:90eaa806f302cf625bf0a0",
+        "android_client_info": {
+          "package_name": "com.sah.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoyGly5sWVwyWwqF4mCdTqmmbz2Lwx_Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
